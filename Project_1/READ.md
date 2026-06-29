@@ -1,1 +1,5 @@
-
+E-Commerce Sales Data Analysis
+Project Overview
+This project explores an e-commerce sales dataset to uncover meaningful insights into customer purchasing behavior, order performance and revenue trends. The dataset was cleaned and prepared for analysis to support data-driven business decision-making.
+Business Problem
+E-commerce businesses generate large volumes of transactional data every day. Without proper ana;ysis, it becomes difficult to identify sales trends, customer preferences, payment patterns and operational challenges. This project aims to transform raw sales data into actionable business insights.
